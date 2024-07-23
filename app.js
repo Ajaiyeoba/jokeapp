@@ -5,7 +5,7 @@
 // const url = "https://v2.jokeapi.dev/joke/Any?blacklistFlags=nsfw,religious,political,racist";
 
 // i changes this from github on muy pc
-
+    // hwhbhhew
 // let getJoke = () => {
 //               //  jokeContainer.classList.remove("fade");
 //                 fetch(url)
