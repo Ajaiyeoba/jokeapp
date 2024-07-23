@@ -4,7 +4,8 @@
 // //https://icanhazdadjoke.com/  https://v2.jokeapi.dev/joke/Any?blacklistFlags=nsfw,religious,political,racist
 // const url = "https://v2.jokeapi.dev/joke/Any?blacklistFlags=nsfw,religious,political,racist";
 
-// i changes this from github account online
+// i changes this from github on muy pc
+
 // let getJoke = () => {
 //               //  jokeContainer.classList.remove("fade");
 //                 fetch(url)
